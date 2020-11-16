@@ -1,0 +1,28 @@
+body {
+    background-color: #ccc;
+    font-family: Helvetica, sans-serif;
+    color: #222;
+    margin-top: 100px;
+}
+h1 {
+    color : #222;
+    padding-left: 800px;
+    font-size: xx-large;
+}
+h2 {
+    color : #222;
+    padding-left: 850px;
+    font-size: xx-large;
+}
+button {
+    background-color: aqua;
+}
+
+.buttons {
+    border-radius: 15px;
+    margin: 0 auto;
+    width : 400px;
+    text-align: center;
+    box-shadow: rgba(0,0,0, 0.1) 0 10px 10px;
+    border: 1px solid #aaa;
+}
